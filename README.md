@@ -46,11 +46,17 @@ SCT_WD_3/
 
 ## 🌐 Live Demo
 
-> Add your GitHub Pages link here after deployment.
+---
 
-Example:
+https://pv8925844-jpg.github.io/SCT_WD_3/
 
-https://yourusername.github.io/SCT_WD_3/
+---
+
+## 🌐 Repository Link
+
+---
+
+https://github.com/pv8925844-jpg/SCT_WD_3
 
 ---
 
