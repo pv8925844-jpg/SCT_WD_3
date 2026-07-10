@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Programming Quiz</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>💻 Programming Quiz</h1>
+
+    <div class="progress-area">
+
+        <div id="progressBar"></div>
+
+    </div>
+
+    <div class="question-info">
+
+        <span id="questionNumber">
+            Question 1 / 10
+        </span>
+
+        <span id="timer">
+            ⏳ 20s
+        </span>
+
+    </div>
+
+    <h2 id="question">
+        Loading Question...
+    </h2>
+
+    <p id="feedback"></p>
+
+    <div id="answers">
+
+    </div>
+
+    <button id="nextBtn">
+        Next →
+    </button>
+    <div id="resultScreen" style="display:none;">
+
+        <div class="score-card">
+
+            <h2>🎉 Quiz Completed!</h2>
+
+            <div class="circle">
+
+                <span id="percentage">0%</span>
+
+            </div>
+
+        </div>
+
+        <h1 id="finalScore"></h1>
+
+        <h3 id="performance"></h3>
+
+        <p id="message"></p>
+
+        <button id="restartBtn">
+            🔄 Play Again
+        </button>
+
+    </div>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
