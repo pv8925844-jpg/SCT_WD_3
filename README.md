@@ -62,9 +62,7 @@ https://github.com/pv8925844-jpg/SCT_WD_3
 
 ## 📸 Preview
 
-```md
 ![Programming Quiz Preview](images/preview2.png)
-```
 
 ---
 
